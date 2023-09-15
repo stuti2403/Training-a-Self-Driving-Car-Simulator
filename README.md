@@ -1,7 +1,7 @@
 <h1 align="center">Training Udacity's Self Driving Car Simulator</h1>
 
 <div align= "center"> <h4>Training a Deep Learning neural network that would allow a car to drive itself in a self-driving car simulator.</h4>
-  <img src="https://github.com/stuti2403/Training-Self-Driving-Car-Simulator/blob/main/image.jpeg"/>
+  <img src="https://github.com/stuti2403/Training-a-Self-Driving-Car-Simulator/blob/main/image.jpeg"/>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

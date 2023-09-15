@@ -28,5 +28,10 @@ To train the convolutional neural network, run the file named trainingSimulation
 ## Testing :
 The video given below shows the car driving itself in the autonomous mode on the simulator after the model has been trained. This output is seen by running the file testsimulation.py followed by running the simulator in autonomous mode.
 
-https://github.com/stuti2403/Training-a-Self-Driving-Car-Simulator/blob/main/OUTPUT_self_driving_car_nanodegree_program.mp4
+
+
+
+https://github.com/stuti2403/Training-a-Self-Driving-Car-Simulator/assets/72308729/bd8a1177-3bae-4e64-9ad6-c06117aa26dd
+
+
 
